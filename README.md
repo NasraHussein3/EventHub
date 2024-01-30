@@ -19,18 +19,18 @@ Here is our powerpoint doc in which we planned our project before starting it:
 
 ## Tech Stack:
 ### Frontend:
-React.js
-Tailwind
-Typescript
-Flowbit
-HTML
-CSS
-Material UI
+- React.js
+- Tailwind
+- Typescript
+- Flowbit
+- HTML
+- CSS
+- Material UI
 
 ### Backend:
-Node.js with Express
-MySQl workbench
-Libraries such as: Express-sessions, bcyprt and mysql2.
+- Node.js with Express
+- MySQl workbench
+- Libraries such as: Express-sessions, bcyprt and mysql2.
 
 ##Here is how to execute our project onto your local machine:
 1. **Clone the Repository:**
