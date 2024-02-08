@@ -5,6 +5,9 @@ All your event needs under one roof.
 ## Project Description:
 The EventHub project is an event management platform that facilitates the planning and organization of various events. Users can select the type of event, choose specific details such as themes, locations, date and time, catering, and decorations. The platform aims to streamline the event booking process for different occasions like bridal showers, birthdays, kids' birthdays, and baby showers.
 
+## Video of the project: 
+[https://youtu.be/NfqRca1jn0M]
+
 ## UX Figma Overview:
 Here is a link to our design section on figma:
 
