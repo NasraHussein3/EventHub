@@ -20,7 +20,7 @@ export const navLinks: NavLink[] = [
 export const logLinks: LogLinks[] = [
   { href: "/signup", label: "Sign Up", icon: signup },
   { href: "/login", label: "Log In", icon: login },
-  { href: "/logout", label: "Log Out", icon: login },
+  { href: "/Logout", label: "Log Out", icon: login },
 ];
 
 export const homeHeroLinks: CarouselItem[] = [
